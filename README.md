@@ -1,0 +1,2 @@
+# -Text-Prediction-using-Recurrent-Neural-Networks
+Text prediction is a task that we use so often in our lives that we've taken it for granted. From the auto-fill feature in our messaging apps to search engines predicting search terms, text prediction technology saves our time and helps us to make our lives easier. It also links into other tasks such as text generation, which can eventually be used to write stories or longer paragraphs.  In this notebook, I will be using the Brown corpus to create and train a LSTM model to predict the next word in a sentence.
